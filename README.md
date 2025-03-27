@@ -4,7 +4,6 @@
   - **Frontend 개발** (React, TailwindCSS, Styled-Components)  
   - **클라우드 인프라 구축** (AWS, Docker, CI/CD, 서버 배포 및 운영)  
   - **Backend 개발** (Java, Spring Boot, Microservices Architecture - MSA, RESTful API 설계 및 구현)
-
 ---
 
 ## 🏆 Career & Experience  
@@ -21,14 +20,13 @@
 
 ### **🛠 Tools & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)  ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
-
 ---
-
 ## 📊 GitHub Stats  
 ![JaiIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiIn&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiIn&layout=compact&theme=radical)  
-
 ---
-
+## 🎯 Study
+[![백준 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=di0308)](https://solved.ac/di0308)
+---
 ## 📫 Contact Me  
 📧 Email: **di0308@naver.com**
