@@ -21,7 +21,6 @@
 
 - **Confluent Kafka 클러스터 직접 구축 및 운영**
   - KRaft 모드 기반의 클러스터 구성 (총 11대 EC2 인스턴스)
-    - Control Center, Broker 3대, Controller 3대, Connect 2대, Schema Registry 2대 구성
   - 구성 간 분리 및 장애 대응 시나리오 테스트 진행
 - **운영 및 모니터링**
   - Control Center 및 Grafana+Prometheus로 브로커 상태 및 토픽 모니터링
