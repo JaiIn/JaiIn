@@ -14,7 +14,7 @@
 ## ⏳ Currently Learning
 - Confluent Kafka
 - Kafka Streams / ksqlDB
-- 
+- CI / CD
 ---
 
 ## 🛠 Tech Stack  
