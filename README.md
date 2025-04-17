@@ -14,23 +14,7 @@
 ## ⏳ Currently Learning
 - Confluent Kafka
 - Kafka Streams / ksqlDB
-
----
-
-## ⚙️ Kafka Engineering
-
-- **Confluent Kafka 클러스터 직접 구축 및 운영**
-  - KRaft 모드 기반의 클러스터 구성 (총 11대 EC2 인스턴스)
-  - 구성 간 분리 및 장애 대응 시나리오 테스트 진행
-- **운영 및 모니터링**
-  - Control Center 및 Grafana+Prometheus로 브로커 상태 및 토픽 모니터링
-  - 클러스터 간 데이터 링크 (Cluster Linking), DR 구성 실습
-- **Kafka Client API 활용**
-  - Spring Boot 기반 Kafka Producer / Consumer 구현
-  - 동기/비동기 처리, 트랜잭션 처리, 멱등성 설정, 배치 처리, ack 전략 실험
-- **Kafka Streams / ksqlDB 실습 진행 중**
-  - 실시간 데이터 처리 및 스트림 조인, 윈도우 기능 테스트
-
+- 
 ---
 
 ## 🛠 Tech Stack  
