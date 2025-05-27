@@ -1,4 +1,4 @@
-### 안녕하세요  
+## About Me
 🔹 **Full-Stack Developer**  
 🔹 관심 분야  
   - **Frontend 개발** (React, TailwindCSS, Styled-Components)  
@@ -33,6 +33,8 @@
 ## 📊 GitHub Stats  
 ![JaiIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiIn&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiIn&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JaiIn&theme=tokyonight)
+
 
 ---
 
