@@ -9,11 +9,11 @@
 
 ### ✈️ AirKraft - 실시간 항공 관제 시스템
 **Confluent Kafka와 Apache Flink 기반의 실시간 항공 데이터 처리 및 충돌 감지 시스템**
-- **GitHub**: [Repository Link]
+- **GitHub**: [[Repository Link]](https://github.com/AIRKRAFT-KFC)
 
 ### 🍽️ HanNoon - 실시간 프랜차이즈 매출 분석 플랫폼  
 **Apache Flink와 Confluent Kafka 기반의 실시간 매출 분석 및 이상 거래 탐지 시스템**
-- **GitHub**: [Repository Link]
+- **GitHub**: [[Repository Link]](https://github.com/KFC-KafkaFriedCoders)
 ---
 
 ## 🏆 Career & Experience  
