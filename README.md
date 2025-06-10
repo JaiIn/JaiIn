@@ -5,8 +5,6 @@
 - **Backend 개발** (Java, Spring Boot, Microservices Architecture - MSA, RESTful API 설계 및 구현)  
 ---
 ## Projects
-
-
 <div align="center">
 <table>
 <tr>
@@ -32,12 +30,22 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
+
+### 🏠 EASY_HOME - 통합 아파트 커뮤니티 플랫폼
+**Spring Cloud Netflix와 Apache Kafka 기반의 마이크로서비스 아키텍처 아파트 커뮤니티 통합 관리 시스템**
+
+`Spring Cloud Gateway` `Eureka Server` `Apache Kafka` `Spring Boot` `MySQL` `Redis` `WebSocket` `Docker` `GitHub Actions`
+
+**GitHub**: [Repository Link](https://github.com/RookiesTeam6/easy_home)
+
+</td>
+<td width="50%">
 
 ### 🍳 ChefBot - GPT 기반 요리 보조 챗봇
 **OpenAI GPT API를 활용한 개인 맞춤형 요리 레시피 추천 및 요리 가이드 시스템**
 
-`OpenAI GPT API` `Python` `React` `Tailwind Css`
+`OpenAI GPT API` `Python` `React` `Tailwind CSS`
 
 **GitHub**: [Repository Link](https://github.com/prnsslcn/ChefBot)
 
