@@ -4,25 +4,48 @@
 - **클라우드 인프라 구축** (AWS, Docker, CI/CD, 서버 배포 및 운영)  
 - **Backend 개발** (Java, Spring Boot, Microservices Architecture - MSA, RESTful API 설계 및 구현)  
 ---
-## 🏆 Career & Experience  
-**[SK Shieldus Rookies - 지능형 애플리케이션 개발자 양성 과정]** – *(2024.12 ~ 2025.06)*  
----
 ## Projects
+
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
 ### ✈️ AirKraft - 실시간 항공 관제 시스템
 **Confluent Kafka와 Apache Flink 기반의 실시간 항공 데이터 처리 및 충돌 감지 시스템**
 
 `Confluent Kafka` `Apache Flink` `Spring Boot` `React` `MySQL` `AWS`
-- **GitHub**: (https://github.com/AIRKRAFT-KFC)
-### 🍽️ HanNoon - 실시간 프랜차이즈 매출 분석 플랫폼  
+
+**GitHub**: [Repository Link](https://github.com/AIRKRAFT-KFC)
+
+</td>
+<td width="50%">
+
+### 🍽️ HanNoon - 실시간 프랜차이즈 매출 분석 플랫폼
 **Apache Flink와 Confluent Kafka 기반의 실시간 매출 분석 및 이상 거래 탐지 시스템**
 
-`Confluent Kafka` `Apache Flink` `Spring Boot` `React` `PostgreDB` `AWS`
-- GitHub: (https://github.com/KFC-KafkaFriedCoders)
+`Confluent Kafka` `Apache Flink` `Spring Boot` `React` `PostgreSQL` `AWS`
+
+**GitHub**: [Repository Link](https://github.com/KFC-KafkaFriedCoders)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
 ### 🍳 ChefBot - GPT 기반 요리 보조 챗봇
 **OpenAI GPT API를 활용한 개인 맞춤형 요리 레시피 추천 및 요리 가이드 시스템**
 
-`OpenAI GPT API` `Python` `React` `React` `Tailwind Css`
-- **GitHub**: (https://github.com/prnsslcn/ChefBot)
+`OpenAI GPT API` `Python` `React` `Tailwind Css`
+
+**GitHub**: [Repository Link](https://github.com/prnsslcn/ChefBot)
+
+</td>
+</tr>
+</table>
+</div>
+
 ---
 ## ⏳ Currently Learning
 - Confluent Kafka / Kafka Streams / ksqlDB / Apache Flink
