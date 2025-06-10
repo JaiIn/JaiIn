@@ -13,8 +13,6 @@
 ### ✈️ AirKraft - 실시간 항공 관제 시스템
 **Confluent Kafka와 Apache Flink 기반의 실시간 항공 데이터 처리 및 충돌 감지 시스템**
 
-`Confluent Kafka` `Apache Flink` `Spring Boot` `React` `MySQL` `AWS`
-
 **GitHub**: [Repository Link](https://github.com/AIRKRAFT-KFC)
 
 </td>
@@ -22,8 +20,6 @@
 
 ### 🍽️ HanNoon - 실시간 프랜차이즈 매출 분석 플랫폼
 **Apache Flink와 Confluent Kafka 기반의 실시간 매출 분석 및 이상 거래 탐지 시스템**
-
-`Confluent Kafka` `Apache Flink` `Spring Boot` `React` `PostgreSQL` `AWS`
 
 **GitHub**: [Repository Link](https://github.com/KFC-KafkaFriedCoders)
 
@@ -35,8 +31,6 @@
 ### 🏠 EASY_HOME - 통합 아파트 커뮤니티 플랫폼
 **Spring Cloud Netflix와 Apache Kafka 기반의 마이크로서비스 아키텍처 아파트 커뮤니티 통합 관리 시스템**
 
-`Spring Cloud Gateway` `Eureka Server` `Apache Kafka` `Spring Boot` `MySQL` `Redis` `WebSocket` `Docker` `GitHub Actions`
-
 **GitHub**: [Repository Link](https://github.com/RookiesTeam6/easy_home)
 
 </td>
@@ -44,8 +38,6 @@
 
 ### 🍳 ChefBot - AI 기반 요리 보조 챗봇
 **OpenAI GPT-4와 RAG 기술을 활용한 개인 맞춤형 요리 레시피 추천 및 이미지 생성 시스템**
-
-`OpenAI GPT-4` `LangChain` `FAISS` `RAG` `DALL-E 3` `Python` `Flask` `React` `Tailwind CSS`
 
 **GitHub**: [Repository Link](https://github.com/prnsslcn/ChefBot)
 
