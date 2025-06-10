@@ -10,14 +10,17 @@
 ## Projects
 ### ✈️ AirKraft - 실시간 항공 관제 시스템
 **Confluent Kafka와 Apache Flink 기반의 실시간 항공 데이터 처리 및 충돌 감지 시스템**
+
 `Confluent Kafka` `Apache Flink` `Spring Boot` `React` `MySQL` `AWS`
 - **GitHub**: (https://github.com/AIRKRAFT-KFC)
 ### 🍽️ HanNoon - 실시간 프랜차이즈 매출 분석 플랫폼  
 **Apache Flink와 Confluent Kafka 기반의 실시간 매출 분석 및 이상 거래 탐지 시스템**
+
 `Confluent Kafka` `Apache Flink` `Spring Boot` `React` `PostgreDB` `AWS`
 - GitHub: (https://github.com/KFC-KafkaFriedCoders)
 ### 🍳 ChefBot - GPT 기반 요리 보조 챗봇
 **OpenAI GPT API를 활용한 개인 맞춤형 요리 레시피 추천 및 요리 가이드 시스템**
+
 `OpenAI GPT API` `Python` `React` `React` `Tailwind Css`
 - **GitHub**: (https://github.com/prnsslcn/ChefBot)
 ---
