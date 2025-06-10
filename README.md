@@ -42,10 +42,10 @@
 </td>
 <td width="50%">
 
-### 🍳 ChefBot - GPT 기반 요리 보조 챗봇
-**OpenAI GPT API를 활용한 개인 맞춤형 요리 레시피 추천 및 요리 가이드 시스템**
+### 🍳 ChefBot - AI 기반 요리 보조 챗봇
+**OpenAI GPT-4와 RAG 기술을 활용한 개인 맞춤형 요리 레시피 추천 및 이미지 생성 시스템**
 
-`OpenAI GPT API` `Python` `React` `Tailwind CSS`
+`OpenAI GPT-4` `LangChain` `FAISS` `RAG` `DALL-E 3` `Python` `Flask` `React` `Tailwind CSS`
 
 **GitHub**: [Repository Link](https://github.com/prnsslcn/ChefBot)
 
